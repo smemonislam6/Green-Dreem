@@ -1,3 +1,5 @@
 My First Git Repojeratory
 
 Now i have change Git Repojeratory
+
+I have change now git repojeratory. this moment. Now i am  learning git.
